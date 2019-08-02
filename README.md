@@ -27,8 +27,4 @@ Copyright 2019 FINOS The Fintech Open Source Foundation
 
 Distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
-## License
-
-Copyright 2019 FINOS the Finteh Open Source Foundation
-
-Distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+SPDX-License-Identifier: [Apache-2.0](https://spdx.org/licenses/Apache-2.0)
